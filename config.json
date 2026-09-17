@@ -1,0 +1,13 @@
+{
+  "apiToken": "",
+  
+  "requestTimeoutSeconds": 15,
+  "authURL": "https://x-bot.live/api/postman/auth",
+  "profileURLFormat": "https://profile.xboxlive.com/users/gt(%s)/profile/settings",
+  "socialURLFormat": "https://peoplehub.xboxlive.com/users/xuid(%s)/people/social",
+  "profileContract": "2",
+  "socialContract": "5",
+  
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+  "lookupsDir": "Lookups"
+}
